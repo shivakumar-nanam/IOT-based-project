@@ -227,7 +227,7 @@ The ESP-01 Wi-Fi module communicates with the LPC2148 through UART and provides 
 
 ## 👩‍💻 Author
 
-**shiva**
+**Shiva Kumar**
 
 Electronics and Communication Engineering (ECE)
 
