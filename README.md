@@ -171,7 +171,7 @@ During normal operation, the system continuously monitors the environmental cond
 When the measured temperature exceeds the configured temperature setpoint, the system detects the abnormal condition and provides an alert.
 
 <p align="center">
-  <img src="./cloud%20connected%20environmental%20data%20logger%20with%20excel%20reporting/images/high_temperature_monitoring.jpeg" alt="High Temperature Monitoring" width="700">
+  <img src="./temperature monitoring.jpng" alt="System Architecture" width="900">
 </p>
 
 ### ⚙️ Temperature Setpoint Configuration
