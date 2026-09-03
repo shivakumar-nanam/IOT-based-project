@@ -171,7 +171,7 @@ During normal operation, the system continuously monitors the environmental cond
 When the measured temperature exceeds the configured temperature setpoint, the system detects the abnormal condition and provides an alert.
 
 <p align="center">
-  <img src="./temperature monitoring.jpng" alt="System Architecture" width="900">
+  <img src="./temperature monitoring.jpng" alt="Temperature Monitoring" width="900">
 </p>
 
 ### ⚙️ Temperature Setpoint Configuration
